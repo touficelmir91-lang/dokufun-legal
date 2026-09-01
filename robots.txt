@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://touficelmir91-lang.github.io/dokufun-legal/sitemap.xml
